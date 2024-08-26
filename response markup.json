@@ -1,42 +1,25 @@
-{
-    "Pagination": {
-        "NumberOfItems": 1,
-        "PageSize": 200,
-        "PageNumber": 1,
-        "NumberOfPages": 1
+-1 {
+    0.1"Pagination": {
+        0.1:0.0 "NumberOfItems": 1, 0.1:1.0
+        0.1:0.1 "PageSize": 200,    0.1:1.1
+        0.1:0.2 "PageNumber": 1,    0.1:1.2
+        0.1:0.3 "NumberOfPages": 1  0.1:1.3
     },
-    "Items": [
+    0.2"Items": [
         {
-            "Addresses": [
+            0.2:0.0"Addresses": [
                 {
-                    "AddressType": "Physical",
-                    "AddressName": "@ Charlie\u0027s",
-                    "StreetAddress": "78A Reid Street",
-                    "StreetAddress2": null,
-                    "Suburb": null,
-                    "City": "WANGARATTA",
-                    "Region": "VIC",
-                    "Country": "Australia",
-                    "PostalCode": "3677",
-                    "IsDefault": false,
-                    "DeliveryInstruction": null,
-                    "LastModifiedOn": "\/Date(1724196804775)\/",
-                    "Guid": "c1f2cdf7-139b-4e47-9876-9e356e25a262"
+                    0.2:0.0:0.0"AddressType": "Physical",            0.2:0.0:1.0
+                    0.2:0.0:0.1"AddressName": "@ Charlie\u0027s",    0.2:0.0:1.1
+                    0.2:0.0:0.2"StreetAddress": "78A Reid Street",   0.2:0.0:1.2
+                    0.2:0.0:0.3"StreetAddress2": null,               0.2:0.0:1.3
                 },
                 {
-                    "AddressType": "Postal",
-                    "AddressName": "@ Charlie\u0027s",
-                    "StreetAddress": "78A Reid Street",
-                    "StreetAddress2": null,
-                    "Suburb": null,
-                    "City": "WANGARATTA",
-                    "Region": "VIC",
-                    "Country": "Australia",
-                    "PostalCode": "3677",
-                    "IsDefault": false,
-                    "DeliveryInstruction": "P3 Local",
-                    "LastModifiedOn": "\/Date(1724196804718)\/",
-                    "Guid": "d2b0de74-b22b-49ef-9881-8584169014b9"
+                    0.2:0.1:0.0"AddressType": "Postal",              0.2:0.1:1.0
+                    0.2:0.1:0.1"AddressName": "@ Charlie\u0027s",    0.2:0.1:1.1
+                    0.2:0.1:0.2"StreetAddress": "78A Reid Street",   0.2:0.1:1.2
+                    0.2:0.1:0.3"StreetAddress2": null,
+
                 },
                 {
                     "AddressType": "Shipping",
